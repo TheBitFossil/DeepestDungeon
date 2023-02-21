@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ea4e1a51ced313740bf467da26c92e9c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hodor
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6885959781633d84aa2f856c578f35d2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
