@@ -21,28 +21,41 @@ combos from light to heavy attacks, in this pure melee oriented gameplay.
 
 # Gameplay
 
-* Jump'N Run
-* Shoot
-* Explore
-* Collect
+* Fast paced
+* Melee Action
+* As Viking-Warrior
+* With a rewarding Loot System
+* and Intuitive Controls
 
 # My Role
 
 * Gameplay Programmer
-* AI Progammer
-* Generalist
+* Systems Programmer
+* Audio Engineer
 
 # Engine/ Languages
 
-Godot 3.4, *GDScript
+Unity 3D, C#
 
 # Responsibilities
 
-* Implemented player core features
-* Implemented AI that pauses and resumes last actions
-* Helped with Animation transitions
+- Gameplay
+* Player
+ * Melee Combo Attacks
+ * Dodge
+ 
+- System
+* Implemented Inventory System
+* Loot
+ * Created a flexible and versatile database
+ * Allows a game designer to create any combination of stats
+ * Implemented a system which uses the database to spawn over 1.7 million different items
+* Created Tools for the Game Designers and 3D Artists which help their workflow
+
+* Worked with 3D Artists on the core animation-state transitions
+* Overseeing version control and teaching the team who to use perforce
 * Audio Engineer 
-* Translation (English)
+
 
 # Build and Installation
 
