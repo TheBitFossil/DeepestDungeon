@@ -14,9 +14,9 @@
 
 # Deepest Dungeon (Student Project S4G Berlin)
 
-*3D Action Game made with Unity 3D*\
-Manage your inventory and time your dodge right while fighting your way\
-through endless dungeons and see how deep you can reach. Using different\ 
+*3D Action Game made with Unity 3D* \
+Manage your inventory and time your dodge right while fighting your way \
+through endless dungeons and see how deep you can reach. Using different \
 combos from light to heavy attacks, in this pure melee oriented gameplay.
 
 # Gameplay
