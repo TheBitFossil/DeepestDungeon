@@ -2,8 +2,8 @@
 <p align="center">- 🔭 I’m currently a student at the <a href ="https://www.school4games.net/">School For Games in Berlin</a></p>
 <p align="center">- ⚡ Fun fact <b>I use Linux to make games.</b></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/thebitfossil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thebitfossil" height="30" width="40" /></a>
 </p>
 
