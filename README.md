@@ -12,8 +12,9 @@
 
 # Deepest Dungeon (Student Project S4G Berlin)
 
-*3D Action Game made with Unity 3D* \
-Manage your inventory and time your dodge right while fighting your way \
+*3D Action Game made with Unity 3D*\
+\
+**Manage your inventory** and time your dodge right while fighting your way \
 through **endless dungeons** and see how deep you can reach. Using different \
 combos from light to heavy attacks, in this pure **melee oriented gameplay**.
 
@@ -30,11 +31,9 @@ combos from light to heavy attacks, in this pure **melee oriented gameplay**.
 * Audio Engineer
 
 # Engine/ Languages
-
 Unity 3D, C#
 
 # Responsibilities
-
 - Player
   * Movement with Dodge
   * Melee System and Combo Attacks
@@ -54,7 +53,6 @@ Unity 3D, C#
 * Overseeing VC and teaching the team how to work with Perforce Integration
 
 # Build and Installation
-
 * Get the game [HERE](https://ascent-of-the-dragon.school4games.net/)
 
 * Installation
@@ -64,13 +62,11 @@ Unity 3D, C#
   * Execute, Play and Have Fun!
 
 # Extras
-
 The repository can be downlaoded and run with Unity Engine, light maps are missing \
 because of size restrictions. Feel free to look through my C# Code any comments or changes \
 are always welcome.
 
 # License
-
 Note that the source in this repository is licensed by the **MIT license model** and covers only\ 
 the **source code** in this repository.
 
