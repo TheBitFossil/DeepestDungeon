@@ -23,9 +23,9 @@ combos from light to heavy attacks, in this pure melee oriented gameplay.
 
 * Fast paced
 * Melee Action
-* As Viking-Warrior
+* A Viking-Warrior
 * With a rewarding Loot System
-* and Intuitive Controls
+* Intuitive Controls
 
 # My Role
 
@@ -39,10 +39,10 @@ Unity 3D, C#
 
 # Responsibilities
 
-- Gameplay
-* Player
- * Melee Combo Attacks
- * Dodge
+* Gameplay
+ * Player
+  * Melee Combo Attacks
+  * Dodge
  
 - System
 * Implemented Inventory System
