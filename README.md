@@ -39,17 +39,15 @@ Unity 3D, C#
 
 # Responsibilities
 
-* Gameplay
- * Player
+- Player
   * Melee Combo Attacks
   * Dodge
  
 - System
 * Implemented Inventory System
-* Loot
- * Created a flexible and versatile database
- * Allows a game designer to create any combination of stats
- * Implemented a system which uses the database to spawn over 1.7 million different items
+* Created a flexible and versatile database
+* Allows a game designer to create any combination of stats
+* Implemented a system which uses the database to spawn over 1.7 million different items
 * Created Tools for the Game Designers and 3D Artists which help their workflow
 
 * Worked with 3D Artists on the core animation-state transitions
