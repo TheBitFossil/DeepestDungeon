@@ -1,5 +1,5 @@
 <h3 align ="center">Aspiring Gameplay Programmer using Unreal Engine, Godot or Unity.</h3>
-<p align="center">- 🔭 I’m currently a student at the [School For Games in Berlin](https://www.school4games.net/)</p>
+<p align="center">- 🔭 I’m currently a student at the <a href ="">School For Games in Berlin</a></p>
 <p align="center">- ⚡ Fun fact <b>I use Linux to make games.</b></p>
 
 <h3 align="left">Connect with me:</h3>
