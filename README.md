@@ -40,24 +40,26 @@ Unity 3D, C#
 # Responsibilities
 
 - Player
-  * Melee Combo Attacks
-  * Dodge
- 
+  * Movement with Dodge
+  * Melee System and Combo Attacks
+  
 - System
-* Implemented Inventory System
-* Created a flexible and versatile database
-* Allows a game designer to create any combination of stats
-* Implemented a system which uses the database to spawn over 1.7 million different items
+  * Inventory System
+  * Created a flexible & versatile database which allows Game Designers to create any combination of stats
+  * Implemented a system which uses the database to spawn over 1.7 million different items
+
+- Audio
+  * Implemented Sounds
+  * Created Mix-Channels 
+  * General Mastering
+
 * Created Tools for the Game Designers and 3D Artists which help their workflow
-
-* Worked with 3D Artists on the core animation-state transitions
-* Overseeing version control and teaching the team who to use perforce
-* Audio Engineer 
-
+* Worked with 3D Artists on the player Attack-Animations and fine-tuned transitions
+* Overseeing VC and teaching the team how to work with Perforce Integration
 
 # Build and Installation
 
-* Click on [Play Here](https://ascent-of-the-dragon.school4games.net/)
+* Get the game [HERE](https://ascent-of-the-dragon.school4games.net/)
 
 * Installation
 
@@ -67,22 +69,17 @@ Unity 3D, C#
 
 # Extras
 
-The repository right now, is missing a few assets, due to size restrictions if you download the project\
-,it will need some tinkering to make it run.
-
-But definetly feel free to look through my GDScripts, the code has not been changed\
-since the relese of v1.0.
+The repository can be downlaoded and run with Unity Engine, light maps are missing \
+because of size restrictions. Feel free to look through my C# Code any comments or changes \
+are always welcome.
 
 # License
 
-Note that the source in this repository is licensed by the MIT license model. This covers only\ 
-the source code in this repository.
+Note that the source in this repository is licensed by the **MIT license model** and covers only\ 
+the **source code** in this repository.
 
-Both Godot and OpenVR have their own license requirements. See their respective git repositories for more details.
-
-The subfolder assets contains third party assets. Please only use them for your own private projects\ 
-as commercial usage is not allowed.
+**All assets** are only for personal projecte and **commercial usage is not allowed**.
 
 # About this repository
 This repository was created by and is maintained by René Hecker a.k.a. TheBitFossil
-during my 1st Semester Project at the School For Games in Berlin.
+during my 2nd Semester Project at the School For Games in Berlin.
