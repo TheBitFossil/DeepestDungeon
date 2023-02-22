@@ -1,6 +1,6 @@
 <h3 align="center">Aspiring Gameplay Programmer using Unreal Engine, Godot or Unity.</h3>
 
-- 🔭 I’m currently a student at the [School For Games in Berlin](https://www.school4games.net/)
+<align ="center">- 🔭 I’m currently a student at the [School For Games in Berlin](https://www.school4games.net/)</align>
 
 - ⚡ Fun fact **I use Linux to make games.**
 
