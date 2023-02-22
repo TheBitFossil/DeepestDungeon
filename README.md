@@ -1,9 +1,7 @@
 <h3 align ="center">Aspiring Gameplay Programmer using Unreal Engine, Godot or Unity.</h3>
-<p align="center">
-- 🔭 I’m currently a student at the [School For Games in Berlin](https://www.school4games.net/)
-</p>
-- ⚡ Fun fact **I use Linux to make games.**
-</p>
+<p align="center">- 🔭 I’m currently a student at the [School For Games in Berlin](https://www.school4games.net/)</p>
+<p align="center">- ⚡ Fun fact **I use Linux to make games.**</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thebitfossil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thebitfossil" height="30" width="40" /></a>
