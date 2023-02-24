@@ -1,4 +1,4 @@
-<h3 align ="center">Aspiring Gameplay Programmer using Unreal Engine, Godot or Unity.</h3>
+<h3 align ="center"> Gameplay Programmer using Unreal Engine, Godot or Unity.</h3>
 <p align="center">- 🔭 I’m currently a student at the <a href ="https://www.school4games.net/">School For Games in Berlin</a></p>
 <p align="center">- ⚡ Fun fact <b>I use Linux to make games.</b></p>
 
@@ -14,9 +14,9 @@
 
 *3D Action Game made with Unity 3D*\
 \
-**Manage your inventory** and time your dodge right while fighting your way \
-through **endless dungeons** and see how deep you can reach. Using different \
-combos from light to heavy attacks, in this pure **melee oriented gameplay**.
+**Manage your inventory** and time your dodge right while fighting your way through \
+**endless dungeons** and see how deep you can reach. Using different combos \
+from light to heavy attacks, in this pure **melee oriented gameplay**.
 
 # Gameplay
 * Fast paced
@@ -34,44 +34,52 @@ combos from light to heavy attacks, in this pure **melee oriented gameplay**.
 Unity 3D, C#
 
 # Responsibilities
-- Player
-  * Movement with Dodge
-  * Melee System and Combo Attacks
+- Gameplay
+  * Locomotion
+  * Dodge
+  * Melee System
+  * Combo Attacks
+  * Worked with 3D Artists on the animations 
+    - Compressed all attack animations to achieve a faster response time and better player feedback
+    - Fine-tuned transitions inside animation controller for the combo system
   
 - System
   * Inventory System
-  * Created a flexible & versatile database which allows Game Designers to create any combination of stats
-  * Implemented a system which uses the database to spawn over 1.7 million different items
-
+  * Created a flexible & versatile database in C# 
+    - allowing Game Designers to add any combination of stats
+    - leading to a wide range of lootable objects
+  * Implemented a spawn system which uses underlying database
+    - there is no limitationto how many different item combinations could be spawned
+    - current version contains over 1.7 million different items each run
+  * Created Tools for the Game Designers and 3D Artists 
+   - Script to change item customization during runtime 
+     
+- Version Control
+  * Onboarding Game Designers and Artists with Perforce Integration
+  * Keeping commit messages clear, readable and structured
+ 
 - Audio
   * Implemented Sounds
   * Created Mix-Channels 
   * General Mastering
 
-* Created Tools for the Game Designers and 3D Artists which help their workflow
-* Worked with 3D Artists on the player Attack-Animations and fine-tuned transitions
-* Overseeing VC and teaching the team how to work with Perforce Integration
-
 # Build and Installation
 * Get the game [HERE](https://ascent-of-the-dragon.school4games.net/)
 
 * Installation
+  - Download the Version for your System
+  - Extract to a folder
+  - Execute, Play and Have Fun!
 
-  * Download the Version for your System
-  * Extract to a folder
-  * Execute, Play and Have Fun!
-
-# Extras
-The repository can be downlaoded and run with Unity Engine, light maps are missing \
-because of size restrictions. Feel free to look through my C# Code any comments or changes \
-are always welcome.
+The repository can be downlaoded and run with Unity Engine, light maps are missing because of size restrictions. \
+Feel free to look through my C# Code any comments or changes are always welcome.
 
 # License
-Note that the source in this repository is licensed by the **MIT license model** and covers only\ 
+Note that the source in this repository is licensed by the **MIT license model** and covers only \
 the **source code** in this repository.
 
 **All assets** are only for personal projecte and **commercial usage is not allowed**.
 
 # About this repository
-This repository was created by and is maintained by René Hecker a.k.a. TheBitFossil
-during my 2nd Semester Project at the School For Games in Berlin.
+This repository was created during my 2nd Semester Project at the **School For Games in Berlin** \
+and is maintained by **René Hecker a.k.a. TheBitFossil**.
