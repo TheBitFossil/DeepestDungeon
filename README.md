@@ -47,7 +47,7 @@ Unity 3D, C#
     - <a href ="https://github.com/TheBitFossil/DeepestDungeon/blob/master/Assets/_Source/Actors/Enemies/States/ChaseState.cs">Chase</a>
     - <a href ="https://github.com/TheBitFossil/DeepestDungeon/blob/master/Assets/_Source/Actors/Enemies/States/IdleState.cs">Idle</a>
 - System
-  * <a href ="https://github.com/TheBitFossil/DeepestDungeon/blob/master/Assets/_Source/Coordinators/Game.cs">Core</a>Game-Data
+  * <a href ="https://github.com/TheBitFossil/DeepestDungeon/blob/master/Assets/_Source/Coordinators/Game.cs">Core</a> Game-Data
   * <a href ="https://github.com/TheBitFossil/DeepestDungeon/tree/master/Assets/_Source/Inventory/Scripts">Inventory System</a>
   * Created a flexible & versatile <a href ="https://github.com/TheBitFossil/DeepestDungeon/tree/master/Assets/_Source/Loot/ItemDatabase">database in C#</a> 
     - allowing Game Designers to add any combination of stats
