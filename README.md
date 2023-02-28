@@ -44,7 +44,7 @@ Unity 3D, C#
     - Fine-tuned transitions inside animation controller for the combo system
   
 - System
-  * Inventory System
+  * <a href ="https://github.com/TheBitFossil/DeepestDungeon/tree/master/Assets/_Source/Inventory/Scripts">Inventory System</a>
   * Created a flexible & versatile database in C# 
     - allowing Game Designers to add any combination of stats
     - leading to a wide range of lootable objects
