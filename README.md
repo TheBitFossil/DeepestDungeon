@@ -35,25 +35,31 @@ Unity 3D, C#
 
 # Responsibilities
 - Gameplay
-  * Locomotion
+  * <a href ="https://github.com/TheBitFossil/DeepestDungeon/tree/master/Assets/_Source/Actors/Player/Scripts">Character Locomotion</a>
   * Dodge
-  * Melee System
+  * <a href ="https://github.com/TheBitFossil/DeepestDungeon/tree/master/Assets/_Source/Actors/Player/Weapons">Melee System</a>
   * Combo Attacks
   * Worked with 3D Artists on the animations 
     - Compressed all attack animations to achieve a faster response time and better player feedback
     - Fine-tuned transitions inside animation controller for the combo system
-  
+  * AI <a href ="https://github.com/TheBitFossil/DeepestDungeon/tree/master/Assets/_Source/Actors/Enemies">State-Machine
+    - <a href ="https://github.com/TheBitFossil/DeepestDungeon/blob/master/Assets/_Source/Actors/Enemies/States/AttackState.cs">Attack</a>
+    - <a href ="https://github.com/TheBitFossil/DeepestDungeon/blob/master/Assets/_Source/Actors/Enemies/States/ChaseState.cs">Chase</a>
+    - <a href ="https://github.com/TheBitFossil/DeepestDungeon/blob/master/Assets/_Source/Actors/Enemies/States/IdleState.cs">Idle</a>
 - System
+  * <a href ="https://github.com/TheBitFossil/DeepestDungeon/blob/master/Assets/_Source/Coordinators/Game.cs">Core</a>Game-Data
   * <a href ="https://github.com/TheBitFossil/DeepestDungeon/tree/master/Assets/_Source/Inventory/Scripts">Inventory System</a>
-  * Created a flexible & versatile database in C# 
+  * Created a flexible & versatile <a href ="https://github.com/TheBitFossil/DeepestDungeon/tree/master/Assets/_Source/Loot/ItemDatabase">database in C#</a> 
     - allowing Game Designers to add any combination of stats
     - leading to a wide range of lootable objects
   * Implemented a spawn system which uses underlying database
     - there is no limitationto how many different item combinations could be spawned
-    - current version contains over 1.7 million different items each run
+    - current version contains over 1.2 million different items each run
   * Created Tools for the Game Designers and 3D Artists 
    - Script to change item customization during runtime 
-     
+   * Event Based <a href ="https://github.com/TheBitFossil/DeepestDungeon/tree/master/Assets/_Source/Coordinators">communication</a>
+   * <a href ="https://github.com/TheBitFossil/DeepestDungeon/blob/master/Assets/_Source/Coordinators/LoadingScreen.cs">Loading screen</a>
+
 - Version Control
   * Onboarding Game Designers and Artists with Perforce Integration
   * Keeping commit messages clear, readable and structured
