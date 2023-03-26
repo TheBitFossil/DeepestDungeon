@@ -70,7 +70,7 @@ Unity 3D, C#
   * General Mastering
 
 # Build and Installation
-* Get the game [HERE](https://ascent-of-the-dragon.school4games.net/)
+* Get the game [HERE](https://s4g.itch.io/deepest-dungeon)
 
 * Installation
   - Download the Version for your System
